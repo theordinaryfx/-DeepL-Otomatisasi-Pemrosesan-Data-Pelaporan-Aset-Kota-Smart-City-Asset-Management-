@@ -1,0 +1,26 @@
+ID_Laporan,Tanggal_Laporan,Kategori_Aset,Deskripsi_Masalah,Urgensi,Latitude,Longitude,Status_Penanganan
+LP-2025-001,2025-10-01,Pohon,Pohon tumbang menutup separuh badan jalan,Tinggi,-6.2001,106.8162,Open
+LP-2025-002,2025-10-01,Lampu Jalan,Lampu jalan padam di perempatan rawan kecelakaan,Sedang,-6.2034,106.8210,In Progress
+LP-2025-003,2025-10-02,Taman,Bangku taman patah dengan paku mencuat,Sedang,-6.2087,106.8123,Open
+LP-2025-004,2025-10-02,Jalan Raya,Lubang besar di jalur utama dekat halte,Tinggi,-6.2115,106.8250,Open
+LP-2025-005,2025-10-03,Pohon,Dahan besar menggantung di atas trotoar,Tinggi,-6.1982,106.8190,In Progress
+LP-2025-006,2025-10-03,Lampu Jalan,Tiang lampu miring hampir roboh,Tinggi,-6.2050,106.8301,Open
+LP-2025-007,2025-10-04,Taman,Rumput taman tidak terawat dan tinggi,Rendah,-6.2140,106.8088,Resolved
+LP-2025-008,2025-10-04,Jalan Raya,Marka jalan memudar di zebra cross sekolah,Sedang,-6.2066,106.8174,Open
+LP-2025-009,2025-10-05,Pohon,Pohon tua berpotensi tumbang saat hujan,Tinggi,-6.2123,106.8195,Open
+LP-2025-010,2025-10-06,Lampu Jalan,Lampu berkedip pada ruas jalan kecil,Rendah,-6.1955,106.8240,Open
+LP-2025-011,2025-10-06,Taman,Permainan anak berkarat dan tajam,Tinggi,-6.2072,106.8105,Open
+LP-2025-012,2025-10-07,Jalan Raya,Aspal retak memanjang di jalan lingkungan,Rendah,-6.2180,106.8220,In Progress
+LP-2025-013,2025-10-07,Pohon,Ranting menghalangi kabel listrik,Tinggi,-6.2019,106.8275,In Progress
+LP-2025-014,2025-10-08,Lampu Jalan,Kabel lampu jalan terbuka dekat trotoar,Tinggi,-6.2098,106.8148,Open
+LP-2025-015,2025-10-08,Taman,Tempat sampah taman penuh dan berbau,Rendah,-6.2155,106.8135,Resolved
+LP-2025-016,2025-10-09,Jalan Raya,Penutup gorong-gorong hilang di bahu jalan,Tinggi,-6.2040,106.8232,Open
+LP-2025-017,2025-10-09,Pohon,Daun gugur menyumbat saluran air,Rendah,-6.1998,106.8118,Resolved
+LP-2025-018,2025-10-10,Lampu Jalan,Lampu lorong taman mati total,Sedang,-6.2132,106.8260,Open
+LP-2025-019,2025-10-10,Taman,Pagar taman roboh sebagian,Sedang,-6.2008,106.8205,In Progress
+LP-2025-020,2025-10-11,Jalan Raya,Jalan amblas setelah hujan deras,Tinggi,-6.2108,106.8182,In Progress
+LP-2025-021,2025-10-11,Pohon,Pohon miring menekan pagar sekolah,Sedang,-6.2061,106.8243,Open
+LP-2025-022,2025-10-12,Lampu Jalan,Lampu penerangan jembatan padam,Sedang,-6.2175,106.8168,Resolved
+LP-2025-023,2025-10-12,Taman,Papan informasi taman rusak,Rendah,-6.2025,106.8152,Open
+LP-2025-024,2025-10-13,Jalan Raya,Polisi tidur terkelupas membahayakan pengendara,Sedang,-6.2090,106.8290,Open
+LP-2025-025,2025-10-13,Pohon,Pohon tumbang menimpa tiang lampu jalan,Tinggi,-6.2147,106.8212,Open
